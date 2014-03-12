@@ -43,3 +43,4 @@ if __name__ == "__main__":
    print "API Key is " + globalApiKey    
    print "Scripts to be run: %s" % str(globalScripts)
    main()
+#hello world
